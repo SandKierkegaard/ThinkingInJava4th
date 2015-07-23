@@ -1,0 +1,7 @@
+Wrong question.  The most valuable thing to do is to learn multiple languages because that is the best way to see through the language to the algorithm.  If you learn only one language, you constrain your understanding of computation and limit your potential.
+
+A person who wants to understand the future of information technology should understand at least the procedural and functional modes of programming, the role of messaging passing and recursion, the interaction of multiple compute cores, and the many ways of managing data persistence.  You won't get a holistic understanding of these from any one language.
+
+An analogy: To be the best musician you can, is there a "most valuable" musical instrument?  Is it piano, because it can play the most notes?  Violin, because more of them are needed in an orchestra?  French horn because of the richness of its timbre?  Timpani, because big booming drums are cool?  Harmonica, because it is portable and popular?
+
+Obviously, a skilled musician should know several instruments, and understand the function and role of many more.  Just as with programming languages, it often takes multiple points of view to see "through the notes" to the underlying logic and beauty of the system.
